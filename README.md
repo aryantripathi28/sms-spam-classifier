@@ -1,4 +1,3 @@
-# email-spam-classifier-new
 # SMS Spam Classifier
 
 An end-to-end **Machine Learning–based SMS Spam Classifier** that uses Natural Language Processing (NLP) techniques to classify messages as **Spam** or **Not Spam**.
