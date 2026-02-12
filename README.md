@@ -19,7 +19,7 @@ In this project, SMS messages are cleaned, vectorized using TF-IDF, and classifi
 - Pandas, NumPy  
 - Scikit-learn  
 - NLTK  
-- Streamlit (for UI, if applicable)  
+- Streamlit (for UI)  
 
 ---
 
